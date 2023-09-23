@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Monument Regualar";
-    src: url("../public/fonts/MonumentExtended-Regular.otf") format("opentype")
+    src: local("Monument Regualar"), url("/public/fonts/MonumentExtended-Regular.otf");
 }
 
 @font-face {
     font-family: "Monument Bold";
-    src: url("../public/fonts/MonumentExtended-Ultrabold.otf") format("opentype")
+    src: local("Monument Regualar"), url("/public/fonts/MonumentExtended-Ultrabold.otf");
 }
 
 @font-face {
