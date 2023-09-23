@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: "Monument Bold";
-    src: local("Monument Regualar"), url("/public/fonts/MonumentExtended-Ultrabold.otf");
+    src: local("Monument Bold"), url("/public/fonts/MonumentExtended-Ultrabold.otf");
 }
 
 @font-face {
