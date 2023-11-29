@@ -1,3 +1,3 @@
 
 # Arslans-Portfolio
-Build using astro, this website is under-construction 🚧
+Built using astro, this website is under-construction 🚧
